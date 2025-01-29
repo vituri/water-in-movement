@@ -1,0 +1,14 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget mollis ipsum. Nulla vel justo vulputate, pharetra justo interdum, porttitor lacus. Nunc feugiat convallis fermentum. Maecenas in diam sed orci vehicula bibendum. Nullam nec ante non urna elementum cursus at ut augue. Proin pharetra lacus pellentesque, sodales nibh in, tempor nulla. Nullam vel laoreet lacus. In scelerisque facilisis orci eu venenatis. Sed mi libero, vestibulum nec nibh at, blandit imperdiet ex. Quisque finibus lectus ipsum. Praesent sed nibh turpis. Nunc in nisl lacinia, imperdiet elit nec, viverra augue. Integer molestie orci in metus ultricies, sed aliquet leo facilisis. Vivamus sagittis nulla sit amet justo pretium, sit amet ultrices nunc molestie. Aliquam cursus, quam ut finibus faucibus, mauris ante placerat elit, vel fringilla felis purus congue risus.
+
+Praesent sed dui sed felis hendrerit vehicula eget nec odio. Aenean nec varius nibh. Nullam semper, est ac iaculis accumsan, sem lorem convallis lacus, eu maximus sapien ligula non massa. Nam iaculis consectetur condimentum. Fusce ut viverra lacus. Etiam vulputate quam venenatis diam egestas blandit. Fusce tempus ante risus, ac feugiat urna aliquet vel. Suspendisse porta semper diam, finibus hendrerit diam vestibulum id. Pellentesque consequat mauris vitae justo varius vulputate. Pellentesque cursus dictum nunc. Nunc vehicula massa vitae enim tempor rutrum. Ut elementum, massa vitae pretium tempor, lectus metus varius ligula, quis lobortis nibh ipsum vehicula neque.
+
