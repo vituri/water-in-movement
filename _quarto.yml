@@ -21,7 +21,7 @@ book:
       - icon: twitter 
         href: https://twitter.com/ 
   search: true
-  repo-url: https://github.com/jjallaire/hopr/
+  repo-url: https://github.com/vituri/water-in-movement
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
