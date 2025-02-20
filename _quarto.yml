@@ -10,6 +10,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - potential-recharge.qmd
     - summary.qmd
     - references.qmd
   page-navigation: true
@@ -37,5 +38,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-
-
+execute: 
+  warning: false
