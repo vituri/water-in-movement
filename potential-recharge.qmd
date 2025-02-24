@@ -29,13 +29,13 @@ Analyzing the movement of water through these reservoirs is made possible by und
 
 $$
 \Delta S = P - ET - Q
-$$ {#eq-linear}
+$$ {#eq-01}
 
 where, $\Delta S$ is the change in water storage, P is precipitation, ET is evapotranspiration and Q is surface runoff (Wang et al., 2014; Lehmann at al., 2022). In some cases, where horizontal movement (surface or subsurface runoff) of water is minimal, Q can be omitted (Wang et al., 2014). This type of adjustment in the hydrological balance equation can also be made for other variables to evaluate potential variability or hidden trends in one or more datasets (Luo et al., 2021; Lehmann et al., 2022). Another example of adapting the hydrological balance equation is to estimate groundwater recharge (Baalousha et al., 2018), at multi-annual scales, $\Delta S$  can be disregarded (Crosbie et al., 2015).
 
 $$
 R = P - ET - Q - \Delta S
-$$
+$$ {#eq-02}
 
 Hydrological balances support decision-making and directing water volumes toward necessary uses. The need for new tools to quantify water is increasingly evident, especially in the current context, where water management requires understanding the effects of extreme events caused by climate change and the transformations in hydrological processes driven by anthropogenic activities (Scanlon et al., 2023).
 
@@ -82,7 +82,7 @@ Once the CN is established, the potential maximum retention is calculated using 
 
 $$ 
 S = \frac{{25400}}{{CN}}-254 
-$$
+$$ {#eq-03}
 
 This equation converts the CN into a measure of the maximum amount of rainfall that can be retained by the soil.
 
@@ -92,7 +92,7 @@ The initial abstraction, which includes losses from interception, early infiltra
 
 $$ 
 I_{a} = 0.2 S 
-$$
+$$ {#eq-04}
 
 ### Runoff Calculation
 
@@ -100,7 +100,7 @@ For rainfall events where the daily precipitation P exceeds $I_{a}$, the runoff 
 
 $$ 
 R_{off} = \frac{(P-0.2S)^2}{P+0.8S} 
-$$
+$$ {#eq-04}
 
 This empirical formula estimates the portion of rainfall that becomes surface runoff after the initial abstraction is met.
 
